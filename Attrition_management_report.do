@@ -13,7 +13,11 @@
 	use "$dtafile_complete", clear
 	
 	//log using "12_Data\4_Attrition_management\4_Reporting\Att_report_`=subinstr(c(current_date), " ", "_", .)'..smcl", replace
-
+	
+	
+//********************************
+// Leo's commments on field work
+**************************************
 	
 /*--------  BENEFICIARY PRODUCTIVE TIME --------*/
 
