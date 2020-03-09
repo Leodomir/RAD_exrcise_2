@@ -172,6 +172,12 @@
 	
 	tab2 t8_02 treatment if bn_hd_activity==1 , col m
 	
+	*******// Adding a new graph//**************************
+	*******
+	******
+	*******
+	*******
+	
 	
 	
 	
